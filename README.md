@@ -3,7 +3,7 @@
   
 ## GUI
 
-![GUI](https://github.com/BartuAbiHD/RVC-GUI-TR/raw/main/docs/GUI.png)
+![GUI](https://github.com/BartuAbiHD/VR-GUI/raw/main/docs/GUI.png)
  <br><br>
   
 ## Windows kullanıcıları için doğrudan kurulum
@@ -36,11 +36,6 @@ pip install --pre torch torchvision torchaudio --extra-index-url https://downloa
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```
 <br>
-
-* [hubert_base.pt](https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/hubert_base.pt/)'i indirin ve kök klasörüne yerleştirin
-
-<br>
- 
 * Ardından VR-GUI'yi başlatmak için bu komutu kullanın:
 ```bash
 python vrgui.py
@@ -49,8 +44,6 @@ Veya bu iki dosyadan birini Windows'ta çalıştırın
 ```
 VR-GUI.bat
 ```
-
 <br> 
-
 ### Sosyal Medya
 * [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord sunucusuna katılın.
