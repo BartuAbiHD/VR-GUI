@@ -36,13 +36,13 @@ pip install --pre torch torchvision torchaudio --extra-index-url https://downloa
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```
 <br>
-* Ardından VR-GUI'yi başlatmak için bu komutu kullanın:
+* Ardından VR GUI'yi başlatmak için bu komutu kullanın:
 ```bash
-python vrgui.py
+python rvcgui.py
 ```
 Veya bu iki dosyadan birini Windows'ta çalıştırın
 ```
-VR-GUI.bat
+RVC-GUI Launcher.exe, RVC-GUI.bat
 ```
 <br> 
 ### Sosyal Medya
