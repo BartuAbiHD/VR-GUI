@@ -6,7 +6,8 @@ matplotlib~=3.8.0
 opencv_python~=4.8.0
 resampy~=0.4.0
 tqdm~=4.66.0
-tkinter
+tk
 customtkinter
 torch
 torchvision
+tkinter
