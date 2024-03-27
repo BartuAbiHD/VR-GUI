@@ -7,13 +7,12 @@
  <br><br>
   
 ## Windows kullanıcıları için doğrudan kurulum
-## [Windows-pkg](https://github.com/BartuAbiHD/RVC-GUI-TR/releases/tag/Windows-pkg)
+## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/Windows-pkg)
   
 <br><br>
 ## Çevreyi Hazırlamak
 
-
-* Yapmadıysanız Python 3.8 veya üstü bir sürümünü yükleyin:
+* Yapmadıysanız Python 3.9 (Tercih edilen: 3.12) veya üstü bir sürümünü yükleyin:
 
 * Bu komutları yürütün
 
