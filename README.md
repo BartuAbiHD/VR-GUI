@@ -1,22 +1,5 @@
 # VR-GUI
 İstediğiniz bir şarkının, vokal kaydı ile alt yapısını ayırabilirsiniz.
-
-<div align="center">
-
-<h1>RVC GUI TURKISH<br><br>
-  
-Yalnızca ses dosyası çıkarımı için
-
-  <br>
-
-  
-
-</div>
-
-  
-
- 
-
   
 ## GUI
 
