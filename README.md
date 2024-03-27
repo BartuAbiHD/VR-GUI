@@ -32,5 +32,5 @@ pip install --pre torch torchvision torchaudio --extra-index-url https://downloa
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```
 
-### Modeller nasıl alınır?
+### Sosyal Medya
 * [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord sunucusuna katılın.
