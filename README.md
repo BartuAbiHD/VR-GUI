@@ -4,11 +4,10 @@
 ![GUI](https://github.com/BartuAbiHD/VR-GUI/raw/main/docs/GUI.png)
 <br><br>
 ## Windows kullanıcıları için doğrudan kurulum
-## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/Windows-pkg)
+## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/v1.1)
   
 <br><br>
 ## Çevreyi Hazırlamak
-
 * Yapmadıysanız Python 3.9 (Tercih edilen: 3.12) veya üstü bir sürümünü yükleyin:
 
 * Bu komutları yürütün
@@ -31,6 +30,5 @@ pip install --pre torch torchvision torchaudio --extra-index-url https://downloa
 
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```
-
 ### Sosyal Medya
 * [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord sunucusuna katılın.
