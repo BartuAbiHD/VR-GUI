@@ -32,7 +32,7 @@ class App:
         self.convert_button = ctk.CTkButton(root, fg_color="green", hover_color="darkgreen", text="Dönüştür", command=self.convert)
         self.convert_button.pack(pady=5)
 
-        version_label = ctk.CTkLabel(root, text="v1.0  ", text_color="#FFB0B0")
+        version_label = ctk.CTkLabel(root, text="v1.1  ", text_color="#FFB0B0")
         version_label.pack(side="bottom", anchor="se")
 
     def select_input(self):
