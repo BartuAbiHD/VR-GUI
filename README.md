@@ -1,11 +1,8 @@
 # VR-GUI
 İstediğiniz bir şarkının, vokal kaydı ile alt yapısını ayırabilirsiniz.
-  
 ## GUI
-
 ![GUI](https://github.com/BartuAbiHD/VR-GUI/raw/main/docs/GUI.png)
- <br><br>
-  
+<br><br>
 ## Windows kullanıcıları için doğrudan kurulum
 ## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/Windows-pkg)
   
@@ -28,21 +25,11 @@ python -m pip install -U pip setuptools wheel
 pip install -U torch torchaudio 
 pip install -r requirements.txt
 ```
-
 Apple silikon Mac'leri düzeltme
 ```
 pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 
 export PYTORCH_ENABLE_MPS_FALLBACK=1
-```
-<br>
-* Ardından VR GUI'yi başlatmak için bu komutu kullanın:
-```bash
-python rvcgui.py
-```
-Veya bu iki dosyadan birini Windows'ta çalıştırın
-```
-RVC-GUI Launcher.exe, RVC-GUI.bat
 ```
 <br> 
 ### Sosyal Medya
