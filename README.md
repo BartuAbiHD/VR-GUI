@@ -41,37 +41,16 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 
 <br>
  
-* Ardından RVC GUI'yi başlatmak için bu komutu kullanın:
+* Ardından VR-GUI'yi başlatmak için bu komutu kullanın:
 ```bash
-python rvcgui.py
+python vrgui.py
 ```
 Veya bu iki dosyadan birini Windows'ta çalıştırın
 ```
-RVC-GUI Launcher.exe, RVC-GUI.bat
+VR-GUI.bat
 ```
-
-# Modelleri yükleme
-Bir Modeli Zip dosyasından içe aktarmak için İçe Aktar düğmesini kullanın, 
-* .Zip ".pth" ağırlık dosyasını içermelidir. 
-* .Zip'in ".index" özellik alma dosyalarını içermesi önerilir.
-
-Veya modeli manuel olarak kök dizindeki "modeller" klasörüne yerleştirin.
-```
-modeller
-├───Kişi1
-│   ├───xxxx.pth
-│   ├───xxxx.index
-│   └───xxxx.npy
-└───Kişi2
-    ├───xxxx.pth
-    ├───...
-    └───...
-````
-<br>
-
 
 <br> 
 
-### Modeller nasıl alınır?
-* [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord sunucusuna katılın. 
-* [HuggingFace](https://huggingface.co/TriasAI) üzerinde topluluk modelleri için [burayı](https://huggingface.co/TriasAI) ziyaret edebilirsiniz. 
+### Sosyal Medya
+* [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord sunucusuna katılın.
