@@ -27,7 +27,7 @@ pip install -U torch torchaudio
 pip install -r requirements.txt
 ```
 
-https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true bu adrese gir ve inen dosyayı dizindeki "models" klasörünün içerisine at.
+[baseline.pth](https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true) bu adrese gir ve inen dosyayı dizindeki "models" klasörünün içerisine at.
 
 Apple silikon Mac'leri düzeltme
 ```
