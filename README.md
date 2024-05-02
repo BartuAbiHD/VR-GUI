@@ -8,6 +8,8 @@
   
 <br><br>
 ## Çevreyi Hazırlamak
+* Bu adımları yalnızca kaynak kodları indirenler yapsın. Setup indirip programı kuranların yapmasına gerek yok.
+
 * Yapmadıysanız Python 3.9 (Tercih edilen: 3.12) veya üstü bir sürümünü yükleyin:
 
 * Bu komutları yürütün
