@@ -26,6 +26,9 @@ python -m pip install -U pip setuptools wheel
 pip install -U torch torchaudio 
 pip install -r requirements.txt
 ```
+
+https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true bu adrese gir ve inen dosyayı dizindeki "models" klasörünün içerisine at.
+
 Apple silikon Mac'leri düzeltme
 ```
 pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
