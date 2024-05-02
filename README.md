@@ -27,7 +27,7 @@ pip install -U torch torchaudio
 pip install -r requirements.txt
 ```
 
-Go to https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true and put the downloaded file into the "models" folder in the directory.
+Go to [baseline.pth](https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true) and put the downloaded file into the "models" folder in the directory.
 
 Apple silicon Macs fix
 ```
