@@ -4,7 +4,7 @@
 ![GUI](https://github.com/BartuAbiHD/VR-GUI/raw/main/docs/GUI.png)
 <br><br>
 ## Windows kullanıcıları için doğrudan kurulum
-## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/v1.1)
+## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/v1.2)
   
 <br><br>
 ## Çevreyi Hazırlamak
