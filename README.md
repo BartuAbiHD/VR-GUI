@@ -1,39 +1,39 @@
 # VR-GUI
-İstediğiniz bir şarkının, vokal kaydı ile alt yapısını ayırabilirsiniz.
+You can separate the vocal recording from the background of a song you want.
 ## GUI
 ![GUI](https://github.com/BartuAbiHD/VR-GUI/raw/main/docs/GUI.png)
 <br><br>
-## Windows kullanıcıları için doğrudan kurulum
+## Direct installation for Windows users
 ## [Windows-pkg](https://github.com/BartuAbiHD/VR-GUI/releases/tag/v1.2)
   
 <br><br>
-## Çevreyi Hazırlamak
-* Bu adımları yalnızca kaynak kodları indirenler yapsın. Setup indirip programı kuranların yapmasına gerek yok.
+## Preparing the Environment
+* Only those who download the source code should do these steps. Those who download the setup and install the program do not need to do it.
 
-* Yapmadıysanız Python 3.9 (Tercih edilen: 3.12) veya üstü bir sürümünü yükleyin:
+* Install Python version +3.9 if you have not:
 
-* Bu komutları yürütün
+* Execute these commands
 
-Nvidia kartlı Windows'lar
+Windows with Nvidia cards
 ```bash
 python -m pip install -U pip setuptools wheel
 pip install -U torch torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
 ```
-Diğer
+Other
 ```
 python -m pip install -U pip setuptools wheel
 pip install -U torch torchaudio 
 pip install -r requirements.txt
 ```
 
-https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true bu adrese gir ve inen dosyayı dizindeki models klasörünün içerisine at.
+Go to https://huggingface.co/datasets/TriasAI/VR-GUI/resolve/main/models/baseline.pth?download=true and put the downloaded file into the "models" folder in the directory.
 
-Apple silikon Mac'leri düzeltme
+Apple silicon Macs fix
 ```
 pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```
-### Sosyal Medya
-* [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord sunucusuna katılın.
+### Social Media
+* Join the [ Trias AI](https://discord.gg/tpy6JbZhh8) Discord.
